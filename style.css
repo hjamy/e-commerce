@@ -1,0 +1,85 @@
+.navbar-light .navbar-nav .nav-link {
+    color: gray;
+    font-weight: 500;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.buy-button {
+    padding: 10px 25px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.carousel-item p {
+    padding: 10px 0;
+}
+
+.carousel-indicators li {
+    width: 15px;
+    height: 10px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    background-color: gray;
+    box-shadow: inset 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.carousel-indicators .active {
+    width: 50px;
+    height: 10px;
+    margin: 10px;
+    background-image: linear-gradient(to right, #ff3300, yellow);
+    border-radius: 5px;
+    border: none;
+}
+
+.catname {
+    padding-bottom: 50px;
+}
+
+.see {
+    color: orangered;
+    padding-top: 10px;
+}
+
+.card {
+    border-radius: 10px;
+    border: none;
+    box-shadow: 4px 4px 5px #f2f2f2;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.price {
+    padding: 20px 0 10px;
+}
+
+.half-width {
+    width: 100%;
+}
+
+.cat {
+    margin: 50px 0;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.scattered {
+    padding: 25%;
+    box-shadow: 4px 4px 5px lightgray;
+    border-radius: 3px 20px;
+}
+
+footer {
+    font-size: 12px;
+}
